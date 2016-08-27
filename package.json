@@ -1,0 +1,15 @@
+{
+  "name": "Trello-Backup",
+  "version": "1.0.0",
+  "description": "Minimalistic, incomplete card and attachment backup utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Gary <adam.gary21@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-trello": "^1.1.2",
+    "request": "^2.74.0"
+  }
+}
